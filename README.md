@@ -3,3 +3,6 @@ Given a set of process bursts and IO time it would take for each we had to creat
 
 # Instillation:
 Simply open the .cpp file in a compatible complier and run it.
+
+# Languages Used:
+- C++
